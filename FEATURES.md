@@ -30,4 +30,4 @@ Save shared practice settings and reuse them with your group.
 
 Bookmark a difficult section, keep your group's notes together and reveal a hint when you need it. Revisit the challenge using the same practice profile.
 
-[Download for PC](https://flyn.im/94ykBM)
+[Download for PC](https://flyn.im/6PCpxq)

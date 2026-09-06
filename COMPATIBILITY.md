@@ -6,7 +6,7 @@
 | Platform | Windows / PC |
 | Steam game ID | 1478500 |
 | Functions | Exploration / Puzzle hints / Routes / Movement / Challenge progress |
-| Download | [PC package](https://flyn.im/94ykBM) |
+| Download | [PC package](https://flyn.im/6PCpxq) |
 
 ## Setup
 
